@@ -1,8 +1,4 @@
-!pip install streamlit pyngrok cloudflared
-    ```
-3.  Clone the repository or upload `scope_dashboard.pyI can definitely help you structure a detailed README file for your SCOPE project! While I can't generate a PDF file directly, I can write the content in standard Markdown format. You can then easily convert this Markdown into a PDF using various online tools or editors like VS Code or Typora.
 
-Here is a comprehensive README structure based on the information in your report:
 
 ***
 
